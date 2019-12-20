@@ -1,2 +1,2 @@
 # text-editor
-A text ediotr from the scratch
+A text ediotr created by vidath
